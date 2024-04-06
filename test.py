@@ -11,3 +11,5 @@ class Shape(object):
     def move_by(self, to_x, to_y):
         self.x += to_x
         self.y += to_y
+
+#modify code.
